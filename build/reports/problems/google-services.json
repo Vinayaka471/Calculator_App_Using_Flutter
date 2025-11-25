@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607183439615",
+    "project_id": "kannada-calculator-c6422",
+    "storage_bucket": "kannada-calculator-c6422.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607183439615:android:d54a82e7e3eeeaae146eca",
+        "android_client_info": {
+          "package_name": "com.kannada.calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH35vPmUl4JBy_NXAlMurjCHj4ctBhWvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
